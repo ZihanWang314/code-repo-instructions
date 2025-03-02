@@ -1,5 +1,5 @@
 # code-repo-instructions
-
+```
 To write a code repo for a certain research idea, the codebase is usually organized in the below manner:
 code-repo
   idea-name/ (source files like a python package)
@@ -34,7 +34,7 @@ code-repo
   setup.py # including package install, copyright information, etc
   .gitignore # please refer to https://github.com/ZihanWang314/RAGEN/blob/main/.gitignore
   requirements.txt
-  
+  ```
 
   
 
