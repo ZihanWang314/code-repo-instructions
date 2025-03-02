@@ -35,11 +35,3 @@ code-repo
   .gitignore # please refer to https://github.com/ZihanWang314/RAGEN/blob/main/.gitignore
   requirements.txt
   ```
-
-  
-
-
-  data/
-
-
-, data(left blank in .gitignore), scripts/download_dataset,py, scripts/setup.sh (including everything needed)
